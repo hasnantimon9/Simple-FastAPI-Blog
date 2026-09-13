@@ -1,0 +1,1 @@
+Body in FastAPI is used to tell FastAPI to read data from the request body (usually JSON) and pass it to your endpoint.

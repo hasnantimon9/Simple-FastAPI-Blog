@@ -1,0 +1,2 @@
+Pydantic models validate and serialize data flowing through your API.
+PostgreSQL schema defines how data is stored in the database.
